@@ -16,9 +16,9 @@ def connect():
     global g
     g=sl.connect(g)
 
-def add_vertex(i,j,lab):
+def add_vertex(i,j,lab,is_zero=False):
     global g
-    g=sl.add_vertex(g,i,j,lab)
+    g=sl.add_vertex(g,i,j,lab,is_zero=is_zero)
 
 def add_mono(dep,end):
     global g
