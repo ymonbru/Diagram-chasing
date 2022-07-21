@@ -832,7 +832,7 @@ def aff_statement(g,statement):
         B=lab.get((c,d),"ZERO")
         C=lab.get((e,f),"ZERO")
         D=lab.get((h,i),"ZERO")
-        print(A,'->',B,'->',C,'->',D,prop)
+        print(A,'->',B,'->',C,'->',D,prop,en='')
 
 def proof_origin(g,s):#it's there to check if it's a proof from the shadow graph, and just extract the proof if it's normal
     if len(s)==3:
