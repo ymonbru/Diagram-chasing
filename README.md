@@ -18,7 +18,7 @@ For The moment the proof given in output are pen and paper proof (in english) bu
 
 
 ## Description of files
-In Diagram_chase.ipynb you can find a firendly user notebook.
+In Diagram_chase.ipynb you can find a firendly user notebook. Some example are added at the end.
 
 The file salamander_user.py is there to hide the computation done in the notebook.
 
@@ -27,4 +27,4 @@ Then main the code is in Salamander.py
 It uses the file graph_for_salamandre.py to deal with the homology objects of the salamander lemma.
 (That one is kind of an adaptation of things i did before in the general case)
 
-In the file Examples-.py you can find some more examples of diagram and the propriety that the algorithm can compute
+In the file Examples-.py you can find some more examples of diagram and the propriety that the algorithm can compute (they can be used by Salamander.py)
