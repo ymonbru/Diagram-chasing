@@ -14,7 +14,7 @@ Then a new graph is made out with the objects and the maps of the salamander lem
 Once there is nothing more to propagate the results can be displayed, en it's possible to extract a proof from the graph.
 
 ## Limits 
-For The moment the proof given in output are pen and paper proof (in english) bu future work to be done is to give a text readable by a proof assitant.
+For The moment the proof given in output are pen and paper proof (in english) but future work to be done is to give a text readable by a proof assitant.
 
 
 ## Description of files
