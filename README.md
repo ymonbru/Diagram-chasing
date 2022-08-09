@@ -28,3 +28,5 @@ It uses the file graph_for_salamandre.py to deal with the homology objects of th
 (That one is kind of an adaptation of things i did before in the general case)
 
 In the file Examples-.py you can find some more examples of diagram and the propriety that the algorithm can compute (they can be used by Salamander.py)
+
+The file MONBRU_Yannis_Rapport.pdf is the repport i did for the M1 Hadamard, the section 5 contains details about the implementation i did and particularly  what didn't worked (and thus it's not on this repository).
