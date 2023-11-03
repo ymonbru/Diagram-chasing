@@ -1,6 +1,8 @@
 # Diagram-chasing in double chain complex
 The code produced during my internship at the Math Institute of Freiburg (under the supervision of Johan Commelin) for the M1 Hadamard ENS-Paris-Saclay
 
+I later added a translation of it in lean 4 ( but still work in progress for now)
+
 The goal is to give a double chain complex together with label (zero object, zero map, epi map, mono map , exact pair), and to compute some consequence of these facts.
 
 ## Description of algorithm
